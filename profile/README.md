@@ -1,6 +1,6 @@
-# PredictaMarket | The Prediction Market
+# Predicta | The Prediction Market
 
-This is a prediction market platform, where users can make predictions about the outcome of future events. Users can buy and sell predictions, and the system handles trade execution, market resolution, and provides real-time updates. The platform is designed using a microservice architecture, with each microservice handling a specific part of the system.
+This is a prediction market platform, where you can make money by predicting future events' outcomes. Users can buy and sell predictions, and the system handles trade execution, and market resolution, and provides real-time updates. The platform uses a microservice architecture, each handling a specific part of the system.
 
 ### 1. Trade Engine Microservice
 The Trade Engine handles the core functionality of executing trades, managing market prices, and resolving markets based on event outcomes.
